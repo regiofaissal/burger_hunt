@@ -1,11 +1,11 @@
-# Reminiscent Trade
+# Burger Hunt
 
 Um jogo desenvolvido com GDevelop e Electron.
 
 ## Descrição
-
-Reminiscent Trade é um jogo que combina elementos de aventura e comércio em um mundo único.
-
+          
+Burger Hunt é um emocionante jogo de plataforma 2D onde você controla os charmosos personagens em uma deliciosa missão para coletar hambúrgueres enquanto evita vários obstáculos e inimigos. Navegue por níveis lindamente projetados cheios de plataformas desafiadoras, interaja com personagens únicos como porcos zangados, coelhos, camaleões, gato e cachorro e teste suas habilidades nesta aventura envolvente. Com seu estilo de arte pixel colorido e mecânicas de jogabilidade dinâmicas, Burger Hunt oferece uma experiência divertida para jogadores de todas as idades que gostam de desafios de plataforma com um toque saboroso.
+        
 ## Pré-requisitos
 
 - Node.js (versão 14 ou superior)
